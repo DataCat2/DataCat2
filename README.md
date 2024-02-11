@@ -1,7 +1,6 @@
 - 😼 Hi, I’m @DataCat2 or Christine Seagrave. 
 
 - 🤓 I’m a social scienctist interested in data science. In 2020, I obtained a Master's of Science Degree the specualized in a field called performance psychology.
--
 - 🔗 Here is a link to findout more about me. 
 
 - 🌱 I’m currently learning data analytics, ML and AI. I like low-code platforms. 
@@ -24,7 +23,7 @@
 - 😉 Here is a link to my Devpost profile where I have submitted hackathon projects. https://devpost.com/christineseagrave34?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 - 🌟 In the future, I hope to collaborate in developing the AI and Data Strategy on projects that use LLMs for NLP, GPT, Chatbots.
--
+
 - 🤠 The strategy and psychology behind developing technology fascinates me. I like developing AI/ ML products that have a social impact on the world. 
 - 
 - 💟 Thank you for checking out my profile. Have a great day. 
